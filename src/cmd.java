@@ -1,3 +1,7 @@
+/**
+ * @author Janek Misioski | https://github.com/janekjmf 	| janek.misiorski@gmail.com 		| +48 883 483 807
+ */
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
